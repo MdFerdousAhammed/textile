@@ -1,0 +1,100 @@
+
+body {
+  
+  background-color: #FFF;
+}
+header {
+  
+  padding: 0px; /* Padding */
+}
+
+/* Navbar brand */
+.navbar-brand {
+  font-size: 24px; /* Font size */
+  color: #fff; /* Text color */
+  font-weight: bold; /* Font weight */
+}
+
+/* Navbar links */
+.nav-link {
+  color: #fff; /* Text color */
+  font-size: 18px; /* Font size */
+  margin-right: 20px; /* Margin */
+}
+
+/* Active navbar link */
+.nav-link.active {
+  background-color: #f2f2f2; /* Background color */
+  color: #333; /* Text color */
+}
+
+/* Navbar link on hover */
+.nav-link:hover {
+  background-color: #f2f2f2; /* Background color */
+  color: #333; /* Text color */
+}
+/* 
+nav extra */
+.navbar-nav {
+  float: right;
+  width: 100%;
+  text-align: center;
+}
+.navbar-nav {
+  justify-content: end;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light.container {
+  border-bottom: 2px solid #b9b9b9;
+}
+
+
+/* fotter */
+
+
+/* Footer section */
+/* Footer section */
+footer {
+  background-color: #f2f2f2; /* Background color */
+  color: #333; /* Text color */
+  padding: 60px 0; /* Padding */
+}
+
+/* Footer headings */
+footer h3 {
+  font-size: 16px; /* Font size */
+  font-weight: bold; /* Font weight */
+  margin-bottom: 20px; /* Margin bottom */
+}
+
+/* Footer links */
+footer a {
+  color: #333; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+/* Footer social media icons */
+footer .fab {
+  font-size: 20px; /* Icon size */
+  margin-right: 10px; /* Margin right */
+}
+
+/* Footer copyright text */
+footer p {
+  font-size: 14px; /* Font size */
+  margin: 0; /* Margin */
+}
+/* extra footer */
+
+.col-md-3 {
+  padding: 30px 14px;
+}
+.t {
+  background: #e8e8e8;
+  border-bottom: 2px solid black;
+}
+.col-md-3 h3 {
+  font-size: 24px;
+}
+.nav-link {
+  border-right: 5px solid #a49b9b;
+}
